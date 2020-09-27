@@ -54,8 +54,7 @@ QUIT:Feeling tired of playing? You can simply quit the game with this command. T
 
 Ending conditions:
 The game will only end if you land on an exit tile and call the QUIT method, 
-having enough gold to satisfy the win condition
-Or if the bot catches you. 
+having enough gold to satisfy the win condition or if the bot catches you. 
 
 
 
