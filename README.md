@@ -35,9 +35,7 @@ MOVE <direction>:This command enables you to move north, south-east or
 PICKUP:This method enables you to pickup gold. If there is no gold on the         
        space you are currently standing on a Fail will be displayed.
        This will indicate that pickup was unsuccessful and it will be displayed by your amount of gold before   
-       PICKUP was called. 
-       
-       If you do happen to stumble upon gold and use PICKUP,   
+       PICKUP was called. If you do happen to stumble upon gold and use PICKUP,   
        SUCCESS will be displayed followed by your updated amount of gold. To activate the command type: PICKUP
                  
 LOOK: This enables you to view a 5x5 grid of your surrounding area. This method is also  
@@ -57,9 +55,13 @@ QUIT:Feeling tired of playing? You can simply quit the game with this command. T
 Ending conditions:
 The game will only end if you land on an exit tile and call the QUIT method, 
 having enough gold to satisfy the win condition
-Or if the bot catches you.
+Or if the bot catches you. 
+
+
+
+                                           Enjoy Dungeons Of Doom!
 -------------------------------------------------------------------------------------------------------------
               
 
-     					Enjoy Dungeons Of Doom!
-					-----------------------
+     					
+					
