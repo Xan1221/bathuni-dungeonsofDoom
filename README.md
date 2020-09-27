@@ -32,10 +32,12 @@ MOVE <direction>:This command enables you to move north, south-east or
                  otherwise.                                                                          
 	
 
-PICKUP:This method enables you to pickup gold if there is no gold on the         
-       that you are currently standing on a Fail will be displayed 
-       indicating that pickup was unsuccessful followed by your amount of gold before   
-       PICKUP was called. If you do happen to stumble upon gold and use PICKUP,   
+PICKUP:This method enables you to pickup gold. If there is no gold on the         
+       space you are currently standing on a Fail will be displayed.
+       This will indicate that pickup was unsuccessful and it will be displayed by your amount of gold before   
+       PICKUP was called. 
+       
+       If you do happen to stumble upon gold and use PICKUP,   
        SUCCESS will be displayed followed by your updated amount of gold. To activate the command type: PICKUP
                  
 LOOK: This enables you to view a 5x5 grid of your surrounding area. This method is also  
